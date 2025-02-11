@@ -2,7 +2,7 @@
 
 
 ## BIO
-- [NAME : Sambit Kumar Sahoo]
+- NAME : Sambit Kumar Sahoo
 - [ROLL : 124EC0012]
 - [DEPARTMENT : Electronics and Communications Engineering]
 
